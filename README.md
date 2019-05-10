@@ -1,1 +1,1 @@
-# AzureToolkit
+# Angular Practice Project
